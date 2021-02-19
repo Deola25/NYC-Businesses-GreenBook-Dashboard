@@ -1,0 +1,900 @@
+ID,Name,Address,Neighborhood,Category,HOLC Grade,Years Active
+G0001,Community,"2368 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Auto Loan,D,1940
+G0003,Ace Auto Supply,"207 St Nicholas Ave, Manhattan",Central Harlem South,Auto Shop,D,"1937,1961,1962"
+G0004,Eighth Avenue Auto Painting & Body Shop,"306 W 143rd street, Manhattan",Central Harlem North-Polo Grounds,Auto Shop,D,"1937,1961,1962"
+G0005,Gene's Auto Repairs,"414 W 155th St, Manhattan",Hamilton Heights,Auto Shop,C,"1937,1961,1962"
+G0006,H. G. Facey,"705 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Auto Shop,Outside Zone,"1937,1961,1962"
+G0007,J. Jones General Auto Repairs,"120 W 145th Street, Manhattan",Central Harlem North-Polo Grounds,Auto Shop,D,"1937,1941,1961,1962"
+G0009,"The Caswell Motor Co, INC","651 West 125th St, Manhattan",Manhattanville,Automotive,Outside Zone,1949
+G0010,J. Jones General Auto Repairs,"120 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1939
+G0011,Savoy Tire Shop,"612 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,"1939,1941"
+G0012,Allens,"147 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1941
+G0013,Andy Radiator,"416 W 127th St, Manhattan",Manhattanville,Automotive,Outside Zone,1941
+G0016,Daly Bros.,"485 St Nicholas Ave, Manhattan",Manhattanville,Automotive,D,1941
+G0017,L. Martinez,"612 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1941
+G0018,Meisel Tire,"2079 7th Ave, Manhattan",Central Harlem South,Automotive,D,1941
+G0019,Nathan Auto,"34 W 145 St, Manhattan",Central Harlem North-Polo Grounds,Automotive,Outside Zone,1941
+G0020,Simons Supply,"133 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1941
+G0022,W. J. McAvoy,"703 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,Outside Zone,1941
+G0023,Gorden Seale,"155 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1941
+G0027,A. McCargo,"242 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1941
+G0028,B. Garrett,"2311 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1941,1947,1948,1949,1950"
+G0029,Bob Cary's Barber Shop,"2521 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1939,1941,1947,1948,1949,1950,1951,1952,1953"
+G0030,Davis,"69 W 138th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1941,1947,1948,1949,1950,1951,1952,1953,1954"
+G0031,Delux Barber Shop,"2799 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1939,1941,1947,1948"
+G0032,Edean,"237 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1941
+G0033,Eldorado,"203 W 116th St, Manhattan",Central Harlem South,Barber Shop,D,"1941,1947"
+G0034,Esquire,"2265 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1941,1953,1954,1955"
+G0035,H. Parks,"200 W 146th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1941
+G0036,Hi-Hat,"2276 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1941,1947,1948,1949,1951,1953"
+G0037,Hoghie Rayford,"2013 7th Ave, Manhattan",Central Harlem South,Barber Shop,D,"1941,1947,1948,1949,1951,1953"
+G0038,,"2395 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1941
+G0039,Leon & Teddy's,"253 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1941
+G0040,Lud,"166 W 116th St, Manhattan",Central Harlem South,Barber Shop,D,1941
+G0041,Manhattan,"2456 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1941
+G0043,Old Manhattan Barber Shop,"2356 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1939
+G0044,Park Lane,"2206 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1941
+G0045,Renaissance Barber Shop,"2349 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1939,1941,1948,1949,1950,1951,1952,1953,1954,1955"
+G0046,Roal,"749 St Nicholas Ave, Manhattan",Hamilton Heights,Barber Shop,D,1941
+G0047,Roxy,"2322 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1941,1947"
+G0048,Spooner's,"2435 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1941,1948,1949,1951,1952,1953"
+G0049,Spooner's Barber Shop,"2435 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1939,1941,1947"
+G0050,Sportsman's Barber Shop,"2224 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1947,1950"
+G0051,World Barber Shop,"2621 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0052,World's Fair Barber Shop,"251 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1939,1941"
+G0053,Ideal Barber Shop,"716 St Nicholas Ave, Manhattan",Hamilton Heights,Barber Shop,D,"1947,1948,1949,1951,1953"
+G0054,Leon & Eddie's,"353 W 145th St, Manhattan",Hamilton Heights,Barber Shop,D,"1947,1948,1949,1950,1951"
+G0056,Sportsmen's Barber Shop,"2224 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1949"
+G0057,Dunbar,"2808 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1949,1951,1952,1953,1954,1955"
+G0058,De Lux Barber Shop,"90 St Nicholas Place, Manhattan",Hamilton Heights,Barber Shop,D,"1948,1951"
+G0059,Modernistic,"2132 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0060,Service Barber Shop,"2297 Seventh Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1950,1951,1952,1953"
+G0061,Blue Castle,"1861 Amsterdam Ave, Manhattan",Hamilton Heights,Barber Shop,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0062,Early Dawn,"2570 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0064,Delux,"90 St Nicholas Place, Manhattan",Hamilton Heights,Barber Shop,D,"1949,1950,1951,1952,1953"
+G0065,Service Barber Shop,"2296 Seventh Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1949,1954,1955"
+G0066,Spooner's,"2435 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1949,1950"
+G0067,Dunbar,"2808 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1949,1950"
+G0068,Hi-Hat,"2276 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,"1948,1949,1950,1952,1954,1955"
+G0069,Hoghie Rayford,"2013 7th Ave, Manhattan",Central Harlem South,Barber Shop,D,"1948,1949,1950,1952"
+G0070,Ideal,"716 St Nicholas Ave, Manhattan",Hamilton Heights,Barber Shop,D,"1948,1949,1950,1952,1954,1955"
+G0072,Dozier,"192 Broadway, Manhattan",Battery Park City-Lower Manhattan,Barber Shop,Outside Zone,"1951,1952,1953,1954"
+G0073,Delux,"92 St Nicholas Pl, Manhattan",Hamilton Heights,Barber Shop,D,"1952,1953,1954,1955"
+G0074,Tuxedo,"1925 Amsterdam Ave, Manhattan",Washington Heights South,Barber Shop,C,"1952,1953,1954,1955"
+G0076,A. Latimer Smith,"2411 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty,D,"1939,1941,1947"
+G0077,Beard's Vanity Beauty Shoppe,"322 St Nicholas Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty,D,"1939,1940,1941,1947,1948,1949,1950,1951,1952,1953,1954"
+G0078,Cottie's Beauty Shoppe,"165 W 127th St, Manhattan",Central Harlem North-Polo Grounds,Beauty,D,"1939,1940"
+G0079,Edna's Beauty Shoppe,"75 St Nicholas Place, Manhattan",Hamilton Heights,Beauty,D,"1939,1940"
+G0080,Frances Beauty Shoppe,"2446 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty,D,"1939,1940"
+G0081,Millicent Beauty Salon,"301 W 141st St, Manhattan",Central Harlem North-Polo Grounds,Beauty,D,"1939,1940,1941"
+G0082,National Beauty Shoppe,"301 W 144th St, Manhattan",Central Harlem North-Polo Grounds,Beauty,D,"1939,1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0084,Oneda's Beautorian,"231 Edgecombe Ave, Manhattan",Hamilton Heights,Beauty,D,"1939,1940,1941,1947,1948"
+G0085,Sibley's Beauty Nook,"301 W 126 St, Manhattan",Central Harlem North-Polo Grounds,Beauty,D,"1939,1940,1947"
+G0087,Josephine's,"202 St Nicholas Ave, Manhattan",Central Harlem South,Beauty Parlor,D,"1941,1947"
+G0088,Elite,"2544 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0089,Bonnie's,"165 W 127th St, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0090,Dorothy's,"247 W 144th St, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,"1947,1948,1949,1950,1951,1952,1953"
+G0092,Lillette's,"1308 Amsterdam Ave, Manhattan",Morningside Heights,Beauty Parlor,D,"1947,1948,1949,1950,1951,1952,1953"
+G0093,A. L. Smith,"2411 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1948
+G0100,Mme. Ruth's,"259 W 116th St, Manhattan",Central Harlem South,Beauty Parlor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0105,Frankie's,"2380 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,"1952,1953,1954,1955"
+G0108,Bee's Beauty Shoppe,"202 St Nicholas Ave, Manhattan",Central Harlem South,Beauty Parlor,D,"1939,1940,1941"
+G0109,Brighthaupt's,"2001 7th Ave, Manhattan",Central Harlem South,Beauty Parlor,D,1941
+G0115,myers & Griffin Beauty Parlor,"65 W 134 St, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,"1939,1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0117,Mayling,"1723 Amsterdam Ave, Manhattan",Hamilton Heights,Chinese Restaurant,C,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0121,Snookie's Sugar Bowl,"2340 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Confectionary,D,1949
+G0129,De Costa,"126 Lenox Ave, Manhattan",Central Harlem South,Detective Agency,D,1952
+G0130,Apex,"840 StNicholas Ave, Manhattan",Hamilton Heights,Drug Store,D,1948
+G0131,Snow & Yeoman's,"3661 Broadway, Manhattan",Hamilton Heights,Drug Store,B,1948
+G0134,M. Boutte,"1028 St Nicholas Ave, Manhattan",Washington Heights South,Drug Store,C,"1952,1953,1954,1955"
+G0135,Superior Florists,"828 6th Ave, Manhattan",Midtown-Midtown South,Florists,Outside Zone,"1950,1951,1962"
+G0136,Frank Bohan,"49 West 28th St, Manhattan",Midtown-Midtown South,Florists,Outside Zone,1953
+G0138,McClary's,"163 West 132nd St, Manhattan",Central Harlem North-Polo Grounds,Garage,D,1948
+G0139,A. L. Smith,"2411 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Garage,D,1940
+G0140,Colonial Park,"310 W 144th St, Manhattan",Central Harlem North-Polo Grounds,Garage,D,"1940,1941,1948,1949,1950,1951,1952,1953,1954,1955"
+G0141,Josephine's,"202 St Nicholas Ave, Manhattan",Central Harlem South,Garage,D,1940
+G0142,Viaduct,"101 Macombs Place, Manhattan",Central Harlem North-Polo Grounds,Garage,D,"1940,1941,1948"
+G0143,United Service Motors,"101 Macombs Place, Manhattan",Central Harlem North-Polo Grounds,Garage,D,1939
+G0144,Dumas,"226 West 135th St, Manhattan",Central Harlem North-Polo Grounds,Garage,D,"1948,1949,1950,1951"
+G0145,Park Lane,"1890 Park Ave, Manhattan",Central Harlem North-Polo Grounds,Garage,Outside Zone,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0146,Dumas,"226 West 135th St, Manhattan",Central Harlem North-Polo Grounds,Garage,D,"1952,1953,1954,1955"
+G0148,Cambridge,"141 W 110th St, Manhattan",Central Harlem South,Hotel,D,"1948,1949,1950,1951,1952,1953,1954"
+G0149,Welthon,"2057 7th Ave, Manhattan",Central Harlem South,Hotel,D,"1948,1949,1950,1951,1952,1953,1954"
+G0150,Marden,"142 W 44th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1948,1949,1950"
+G0153,Adrienne,"2053 7th Ave, Manhattan",Central Harlem South,Hotel,D,"1937,1938,1940,1961,1962"
+G0154,America,"145 w 47th Street, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1952,1953,1954,1955,1956,1957,1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0155,Barbera Hotel,"501 W 142nd St, Manhattan",Hamilton Heights,Hotel,C,"1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0156,Beakford,"300 W 116th St, Manhattan",Central Harlem South,Hotel,D,"1940,1947,1948,1949,1950,1951,1952,1953,1954"
+G0158,Cadillac Hotel,"235 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1954,1955,1956,1957,1959,1960,1962"
+G0160,Castle Hotel,"36 W 106th Street, Manhattan",Upper West Side,Hotel,C,"1959,1960,1961,1962"
+G0161,Cecil Hotel,"208 W 118 Street, Manhattan",Central Harlem South,Hotel,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955,1957,1959,1960,1961,1962"
+G0164,Crosstown Hotel,"515 W 145th Street, Manhattan",Hamilton Heights,Hotel,C,"1947,1948,1949,1951,1952,1953,1954,1955,1956,1957,1959,1960,1962"
+G0166,Currie Hotel,"101 W 145th Street, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1940,1941,1947,1948,1949,1950,1956,1957,1959,1960,1961,1962"
+G0168,Dewey Square,"201 W 117th Street, Manhattan",Central Harlem South,Hotel,D,"1937,1938,1940,1950,1951,1954,1959,1961,1962"
+G0169,Diplomat,"108 W 43rd street, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0171,Drive Inn Motel,"75 Macombs Place, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1962,1963 - 1964,1966 - 1967"
+G0172,Edgecombe Hotel,"345 Edgecombe Ave, Manhattan",Hamilton Heights,Hotel,D,"1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0173,Edison,"228 W 47th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0174,Elk Hotel,"308 St Nicholas Ave, Manhattan",Central Harlem South,Hotel,D,"1939,1940"
+G0175,El-Melrah Hotel,"21 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1939,1940,1947"
+G0176,Elton Hotel,"227 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1954,1955,1956,1957,1959,1960,1962"
+G0177,Emabassy,"154 W 70th Street, Manhattan",Lincoln Square,Hotel,D,1962
+G0179,Frane Dumas,"205 W 135th Street, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1937,1938,1947,1961,1962"
+G0180,Garrett House/Garrett's,"314 W 127th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1937,1938,1939,1940,1947,1948,1949,1950,1951,1952,1953,1954,1961,1962"
+G0183,Grampion,"182 St Nicholas Ave, Manhattan",Central Harlem South,Hotel,D,"1938,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0184,Henry Judson,"35 W 57th Stret, Manhattan",Midtown-Midtown South,Hotel,B,1962
+G0185,Hotel Cecil,"210 W 118th St, Manhattan",Central Harlem South,Hotel,D,"1941,1956"
+G0186,Hotel Fane (Fane-Dumas),"205 W 135th Street, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1940,1948,1949,1951,1952,1953,1954,1955,1956,1957,1959,1960,1962"
+G0187,Hotel Grampion,"182 St Nicholas Ave, Manhattan",Central Harlem South,Hotel,D,"1940,1950,1962"
+G0188,Hotel St. George,"51 Clark Street, ",,Hotel,Outside Zone,"1961,1962,1963 - 1964,1966 - 1967"
+G0189,Hotel Theresa,"2090 7TH Ave, Manhattan",Central Harlem South,Hotel,D,"1949,1950,1951,1952,1953,1954,1956,1959,1960,1961,1962"
+G0196,Manhattan Hotel,"504 Manhattan Ave, Manhattan",Central Harlem South,Hotel,D,"1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0197,Manville House,"220 W 133rd St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,1939
+G0198,X,"617 7th Ave, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1937,1938,1947,1961,1962"
+G0199,Martha Hotel,"6 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1937,1938,1939,1940,1947,1948,1949,1950,1951,1952,1953,1954"
+G0200,Mel's Plaza Hotel,"115 W 118th St, Manhattan",Central Harlem South,Hotel,D,"1955,1956,1957,1959,1960,1962"
+G0203,Olga's Hotel,"695 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1938,1940,1947,1955,1957,1959,1960,1961,1962"
+G0206,Press,"23 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1937,1938,1940,1947,1961,1962"
+G0207,Revella Hotel,"307 W 116th St, Manhattan",Central Harlem South,Hotel,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1962"
+G0208,Richard Hotel,"6 Bradhurst Ave, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1948,1949,1950,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0209,Rich's Plaza Hotel,"35 Bradhurst Ave, Manhattan",Hamilton Heights,Hotel,D,"1951,1954,1955,1956,1957,1959,1960,1962"
+G0210,Royal Hotel,"306 W 116th Street, Manhattan",Central Harlem South,Hotel,D,"1955,1956,1957,1959,1960,1961,1962"
+G0214,The Harriet,"50 W 112th Street, Manhattan",Central Harlem South,Hotel,D,"1937,1938,1961,1962"
+G0215,The Harriet,"271 W 127th Street, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1937,1938,1940,1961,1962"
+G0216,The Tenrub Hotel,"328 St Nicholas Ave, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1939,1940,1947,1948,1949,1950,1951,1954,1955,1956,1957,1959,1960,1961,1962"
+G0218,Theresa,"2090 7th Ave, Manhattan",Central Harlem South,Hotel,D,"1947,1955,1957,1962"
+G0222,Wilthom Hotel,"2027 7th Ave, Manhattan",Central Harlem South,Hotel,D,"1955,1956,1957,1959,1960,1961,1962"
+G0223,Woodside,"2424 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1937,1938,1940,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0224,YMCA,"180 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1941,1947,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1962"
+G0225,YMCA,"175 W 137th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1941,1947,1949,1950,1952,1953,1954,1955,1956,1957,1959,1960,1962"
+G0226,Cambridge,"141 W 10th St ?, Manhattan",West Village,Hotel,C,"1947,1948,1949,1951,1955"
+G0227,Dewey Square Hotel,"201-203 W 117th St, Manhattan",Central Harlem South,Hotel,D,"1938,1947,1948,1949,1955,1956,1957,1960"
+G0228,Hotel Elmeneh,"845 St Nicholas Ave, Manhattan",Hamilton Heights,Hotel,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0229,Hotel McClendon,"23 W 123rd st, Manhattan",Central Harlem South,Hotel,D,"1947,1948,1949,1950,1951,1952,1953"
+G0231,Hotel Richard,"6 Bradhurst Ave, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1950,1951,1952,1962"
+G0232,Currie,"101 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1950,1951,1952,1953,1954,1955,1962"
+G0233,Parkview,"55 West 110th Street, Manhattan",Central Harlem South,Hotel,D,"1953,1954,1955"
+G0235,Mel's Plaza,"151 W 118th St, Manhattan",Central Harlem South,Hotel,D,1954
+G0236,Rose Meta,"9 W 125th St, Manhattan",Central Harlem South,Hotel,D,"1954,1955"
+G0239,Abbey,"151 W 51 St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0240,Algonquin,"59 W 44 St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0241,Allerton House,"130 E 57 St, Manhattan",Turtle Bay-East Midtown,Hotel,A,"1963 - 1964,1966 - 1967"
+G0243,Arlington,"18 W 25th St, Manhattan",Hudson Yards-Chelsea-Flatiron-Union Square,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0245,Barbizon-Plaza,"106 Central Park, Manhattan",park-cemetery-etc-Manhattan,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0248,Buckingham,"101 W 57 St, Manhattan",Midtown-Midtown South,Hotel,B,"1963 - 1964,1966 - 1967"
+G0251,Essex House,"160 Central Park, Manhattan",park-cemetery-etc-Manhattan,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0254,Gladstone,"114 E 52 St, Manhattan",Turtle Bay-East Midtown,Hotel,A,"1963 - 1964,1966 - 1967"
+G0255,Governor Clinton,"371 7th Ave, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0256,Great Northern,"118 W 57 St, Manhattan",Midtown-Midtown South,Hotel,B,"1963 - 1964,1966 - 1967"
+G0257,Hadson,"1234 Broadway, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0258,Hamilton,"141 W 73 St, Manhattan",Lincoln Square,Hotel,B,"1963 - 1964,1966 - 1967"
+G0259,Henry Hudson,"353 W 57 St, Manhattan",Clinton,Hotel,D,"1963 - 1964,1966 - 1967"
+G0262,Kimberly,"203 W 74 St, Manhattan",Upper West Side,Hotel,B,"1963 - 1964,1966 - 1967"
+G0263,King Edward,"120 W 44 ST, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0264,Knickerbocker,"120 W 45 St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0266,Mayfair House,"610 Park Ave, Manhattan",Upper East Side-Carnegie Hill,Hotel,A,"1963 - 1964,1966 - 1967"
+G0267,Mayflower Hotel,"15 Central Park W, Manhattan",Lincoln Square,Hotel,B,"1963 - 1964,1966 - 1967"
+G0268,Meurice Hotel,"145 W 58th St, Manhattan",Midtown-Midtown South,Hotel,B,"1963 - 1964,1966 - 1967"
+G0269,Murray Hill Hotel,"42 W 35th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0270,Nassau Hotel,"56 E 59 St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0271,National Hotel,"592 7th Ave, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0272,Navarro Hotel,"112 Central Park, Manhattan",park-cemetery-etc-Manhattan,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0274,One Fifth Avenue,"1 5th Ave, Manhattan",West Village,Hotel,B,"1963 - 1964,1966 - 1967"
+G0275,Paramount Hotel,"235 W 46th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0276,Paris Hotel,"752 West End Ave, Manhattan",Upper West Side,Hotel,B,"1963 - 1964,1966 - 1967"
+G0277,Park Crescent Hotel,"150 Riverside Dr, Manhattan",Upper West Side,Hotel,B,"1963 - 1964,1966 - 1967"
+G0278,Park Lane Hotel,"299 Park Ave, Manhattan",Turtle Bay-East Midtown,Hotel,A,"1963 - 1964,1966 - 1967"
+G0279,Park Plaza,"50 W 77th St, Manhattan",Upper West Side,Hotel,B,"1963 - 1964,1966 - 1967"
+G0280,Park Royal,"23 W 73rd St, Manhattan",Lincoln Square,Hotel,B,"1963 - 1964,1966 - 1967"
+G0281,Park Sheraton Hotel,"870 7th Ave, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0282,Peter Cooper Hotel,"130 E 39th St, Manhattan",Murray Hill-Kips Bay,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0283,Picadilly,"227 W 45th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0284,Pierre Hotel,"2 E 61st St, Manhattan",Upper East Side-Carnegie Hill,Hotel,A,"1963 - 1964,1966 - 1967"
+G0286,Plymouth Hotel,"143 W 49 St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0287,President Hotel,"234 W 48th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0288,Prince George Hotel,"14 E 28th St, Manhattan",Hudson Yards-Chelsea-Flatiron-Union Square,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0290,RIviera Congress Motor Inn,"550 10th Ave, Manhattan",Clinton,Hotel,D,"1963 - 1964,1966 - 1967"
+G0291,Roger Smith Hotel,"501 Lexington Ave, Manhattan",Turtle Bay-East Midtown,Hotel,A,"1963 - 1964,1966 - 1967"
+G0292,St. Moritz,"50 Central Park, Manhattan",park-cemetery-etc-Manhattan,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0294,Schuyler Hotel,"57 W 45 St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0295,Seventy Park Hotel,"70 Park Ave, Manhattan",Murray Hill-Kips Bay,Hotel,B,"1963 - 1964,1966 - 1967"
+G0296,Shelburne Hotel,"303 Lexington Ave, Manhattan",Murray Hill-Kips Bay,Hotel,B,"1963 - 1964,1966 - 1967"
+G0299,Sheraton-East,"341 Park Ave, Manhattan",Turtle Bay-East Midtown,Hotel,A,"1963 - 1964,1966 - 1967"
+G0301,Skyline Motor Inn,"725 10th Ave, Manhattan",Clinton,Hotel,D,"1963 - 1964,1966 - 1967"
+G0302,Stanhope Hotel,"995 5th Ave, Manhattan",Upper East Side-Carnegie Hill,Hotel,A,"1963 - 1964,1966 - 1967"
+G0303,Statler Hilton,"401 7th Ave, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0306,Times Square Motor Hotel,"225 W 43rd St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0307,Tudor Hotel,"304 E 42nd St, Manhattan",Turtle Bay-East Midtown,Hotel,D,"1963 - 1964,1966 - 1967"
+G0309,Waldorf-Astoria,"301 Park Ave, Manhattan",Turtle Bay-East Midtown,Hotel,A,"1963 - 1964,1966 - 1967"
+G0310,Warwick Hotel,"65 W 54 St, Manhattan",Midtown-Midtown South,Hotel,B,"1963 - 1964,1966 - 1967"
+G0312,Wentworth Hotel,"59 W 46th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0314,Westover Hotel,"253 W 72nd St, Manhattan",Lincoln Square,Hotel,B,"1963 - 1964,1966 - 1967"
+G0315,Windermere Hotel,"666 West End Ave, Manhattan",Upper West Side,Hotel,B,"1963 - 1964,1966 - 1967"
+G0316,Winslow Hotel,"45 E 55th St, Manhattan",Midtown-Midtown South,Hotel,A,"1963 - 1964,1966 - 1967"
+G0317,Wolcott Hotel,"4 W 31st St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0318,Woodstock Hotel,"127 W 43rd St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0319,Woodward Hotel,"210 W 55th St, Manhattan",Midtown-Midtown South,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0320,Wyndam Hotel,"42 W 58th St, Manhattan",Midtown-Midtown South,Hotel,B,"1963 - 1964,1966 - 1967"
+G0321,Y.M.C.A. Wm. Sloane House,"356 W 34th St, Manhattan",Hudson Yards-Chelsea-Flatiron-Union Square,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0333,Manhattan Beach Hotel,"156 West End Ave, Manhattan",Lincoln Square,Hotel,D,"1963 - 1964,1966 - 1967"
+G0335,Towers Hotel,"25 Clark St, ",,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0336,Lincoln Square Motor inn,"155 W 66 St, Manhattan",Lincoln Square,Hotel,D,"1963 - 1964,1966 - 1967"
+G0337,El Melrah,"19-23 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1948,1949,1950,1951,1952,1953,1954"
+G0339,Harriet Hotels,"313 West 127th St, Manhattan",Central Harlem North-Polo Grounds,Hotel,D,"1948,1949,1950,1951,1952,1953,1954"
+G0340,Mariette,"170 W 121st St, Manhattan",Central Harlem South,Hotel,D,"1938,1948,1949,1950,1951,1952,1953,1954,1955"
+G0341,Hudson,"1649 Amsterdam Ave, Manhattan",Hamilton Heights,Hotel,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0346,Goldman's,"483 W 155th St, Manhattan",Washington Heights South,Liquor Store,C,"1948,1949,1950,1951,1952,1953,1955"
+G0347,Willis and Brown,"201 West 138th Street, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951"
+G0349,Anderson & Random,"101 W 114th St, Manhattan",Central Harlem South,Liquor Store,D,"1948,1949"
+G0350,Baker's,"302 W 118th St, Manhattan",Central Harlem South,Liquor Store,D,"1948,1949"
+G0351,Cardun,"102 W 137th St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949"
+G0352,Charity,"483 W 150th St, Manhattan",Hamilton Heights,Liquor Store,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0354,Eulace Peacock,"200 W 140th St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0355,Ferguson,"271 W 126th St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0357,Green's,"161 W 120th St, Manhattan",Central Harlem South,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0358,H. & S.,"5 West 131st St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0359,Harlem,"85 West 128th St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0360,Inez Gumbs,"347 W 141st St, Manhattan",Hamilton Heights,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0361,C. D. Kings,"2087 Madison Ave, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0362,Padam's,"1963 Amsterdam Ave, Manhattan",Washington Heights South,Liquor Store,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0363,Chas. Arshen,"2501 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0364,Kipco,"1765 Amsterdam Ave, Manhattan",Hamilton Heights,Liquor Store,C,"1948,1949,1950,1951,1952,1953"
+G0365,I. Goldberg,"2655 Broadway, Manhattan",Upper West Side,Liquor Store,B,"1948,1949,1950,1951,1952,1953"
+G0366,Belma's,"2812 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1948,1949,1950,1951"
+G0367,Janet's,"366 Convent Ave, Manhattan",Hamilton Heights,Liquor Store,D,"1948,1949,1950"
+G0374,Dave's,"472 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1947,1948,1949"
+G0375,Friedland's,"605 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1947,1948,1949"
+G0376,Golman's Wine and Liquors,"483 W 155th St, Manhattan",Washington Heights South,Liquor Store,C,"1947,1954"
+G0377,J & D,"271 W 141st St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1947,1948,1949,1950"
+G0379,Margaret B. Gray,"394 Manhattan Ave, Manhattan",Central Harlem South,Liquor Store,D,"1947,1948,1949"
+G0380,Square Wine and Liquor,"209 W 127th St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1947,1948,1949"
+G0381,Convent,"42 Convent Ave, Manhattan",Manhattanville,Liquor Store,D,"1951,1952,1953,1954,1955"
+G0382,Forbes,"272 West 154th St, Manhattan",Central Harlem North-Polo Grounds,Liquor Store,D,"1952,1953,1954,1955"
+G0383,Hamilton Place,"150 Hamilton Place, Manhattan",Hamilton Heights,Liquor Store,C,"1952,1953,1954,1955"
+G0384,H & R,"273 West 121st St, Manhattan",Central Harlem South,Liquor Store,D,"1952,1953,1954,1955"
+G0386,Beulah's,"350 Manhattan Ave, Manhattan",Central Harlem South,Millinery,D,"1939,1940,1941"
+G0387,Ira's,"2441 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Millinery,D,"1940,1941"
+G0388,Economy Movers & Storage Warehouse,"2303 8th Ave, Manhattan",Central Harlem South,Movers / Storage Warehouse,D,1941
+G0389,African Room,"730 3rd Ave, Manhattan",Turtle Bay-East Midtown,Night Club,D,"1962,1963 - 1964,1966 - 1967"
+G0390,Basin Street,"137 E 48th St, Manhattan",Turtle Bay-East Midtown,Night Club,A,"1962,1963 - 1964,1966 - 1967"
+G0391,Birland,"1678 Broadway, Manhattan",Midtown-Midtown South,Night Club,Outside Zone,1962
+G0392,Blue Angel,"152 E 55th Street, Manhattan",Turtle Bay-East Midtown,Night Club,A,"1962,1963 - 1964,1966 - 1967"
+G0393,Capitol,"115 Lenox Ave, Manhattan",Central Harlem South,Night Club,D,"1940,1941"
+G0394,Copacabana,"10 E 60th Street, Manhattan",Upper East Side-Carnegie Hill,Night Club,A,"1962,1963 - 1964,1966 - 1967"
+G0395,Count Basie's,"2245 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1962,1963 - 1964,1966 - 1967"
+G0396,Danny's Hide-A-Way,"151 E 45th Street, Manhattan",Turtle Bay-East Midtown,Night Club,D,1962
+G0397,Dragon Inn,"140 E 40th St, Manhattan",Murray Hill-Kips Bay,Night Club,B,"1962,1963 - 1964,1966 - 1967"
+G0398,El Morocco,"307 E 54th Street, Manhattan",Turtle Bay-East Midtown,Night Club,D,"1962,1963 - 1964,1966 - 1967"
+G0400,Fireside Inn,"411 W 24th Street, Manhattan",Hudson Yards-Chelsea-Flatiron-Union Square,Night Club,D,"1962,1963 - 1964,1966 - 1967"
+G0403,Harlem Hollywood,"105 W 116th St, Manhattan",Central Harlem South,Night Club,D,"1940,1941,1947"
+G0404,Hawaiian Room,"515 Lexington Ave, Manhattan",Turtle Bay-East Midtown,Night Club,A,"1962,1963 - 1964,1966 - 1967"
+G0405,Carribean Club,"2387 7th ave, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,1947
+G0406,Celebrity Club,"35 E 125th St, Manhattan",East Harlem North,Night Club,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0408,Club Sudan,"640 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1947,1948"
+G0409,Hollywood,"105 W 116th St, Manhattan",Central Harlem South,Night Club,D,"1947,1948,1949,1953"
+G0410,James,"2255 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,1941
+G0411,Jimmy Ryan's,"53 W 52nd Street, Manhattan",Midtown-Midtown South,Night Club,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0412,Jock's Place,"2350 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1948,1949,1950,1951,1952,1953,1954,1955,1962,1963 - 1964,1966 - 1967"
+G0413,Latin Quarter,"200 W 52nd St, Manhattan",Midtown-Midtown South,Night Club,Outside Zone,"1962,1966 - 1967"
+G0414,Lenox Rendezcous,"75 Lenox Ave, Manhattan",Central Harlem South,Night Club,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0416,Living Room,"915 Second Ave, Manhattan",Turtle Bay-East Midtown,Night Club,D,"1962,1963 - 1964,1966 - 1967"
+G0419,No Soir,"40 W 8th Street, Manhattan",West Village,Night Club,B,1962
+G0420,Prelude,"3219 Broadway, Manhattan",Manhattanville,Night Club,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0421,Red Rooster,"2354 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1962,1963 - 1964,1966 - 1967"
+G0422,Red Rooster (2),"37 W 56th St, Manhattan",Midtown-Midtown South,Night Club,B,1962
+G0423,Sapphire's,"271 W 47th Street, Manhattan",Midtown-Midtown South,Night Club,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0425,The Round Table,"151 E 50th Street, Manhattan",Turtle Bay-East Midtown,Night Club,A,"1962,1963 - 1964,1966 - 1967"
+G0426,Vincent's,"2120 Madison Ave, Manhattan",East Harlem North,Night Club,Outside Zone,"1940,1941"
+G0427,Reno,"549 W 145th St, Manhattan",Hamilton Heights,Night Club,C,"1948,1949,1950,1951,1952,1953,1954"
+G0430,Harlem,"266 West 145th St, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1948,1951"
+G0431,Calypso,"2387 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1948,1949,1950,1951"
+G0432,Cosan's,"371 West 123rd Street, Manhattan",Morningside Heights,Night Club,D,"1949,1951,1952"
+G0433,Harlem,"266 West 145th St, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1949,1950,1952,1953,1954,1955"
+G0434,Lido,"35 West 125th St, Manhattan",Central Harlem South,Night Club,D,"1949,1950,1951,1952,1953,1954,1955"
+G0435,Club Harlem,"266 West 145th St, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,"1949,1950,1952,1953,1954,1955"
+G0437,Williams,"208 Broadway, Manhattan",Battery Park City-Lower Manhattan,Night Club,Outside Zone,"1951,1952,1954"
+G0440,Birdland,"1678 Broadway, Manhattan",Midtown-Midtown South,Night Club,Outside Zone,"1963 - 1964,1966 - 1967"
+G0442,La Famille,"2017 5th Ave, Manhattan",East Harlem North,Night Club,D,"1963 - 1964,1966 - 1967"
+G0443,Linnette's,"714 St Nicholas Ave, Manhattan",Hamilton Heights,Night Club,D,"1963 - 1964,1966 - 1967"
+G0444,Midway Lounge,"415 W 125th St, Manhattan",Morningside Heights,Night Club,Outside Zone,"1963 - 1964,1966 - 1967"
+G0445,7 Ports,"1604 Broadway, Manhattan",Midtown-Midtown South,Night Club,Outside Zone,"1963 - 1964,1966 - 1967"
+G0447,Sweet Chariot,"225 W 125th St, Manhattan",Central Harlem South,Night Club,D,"1963 - 1964,1966 - 1967"
+G0448,Top Club,"354 W 125th St, Manhattan",Morningside Heights,Night Club,D,"1963 - 1964,1966 - 1967"
+G0449,Upstairs at the Downstairs and Downstairs at the Upstairs,"37 W 56th Street, Manhattan",Midtown-Midtown South,Night Club,B,"1963 - 1964,1966 - 1967"
+G0455,Aunt Dinah's Kitchen,"172 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1938,1940"
+G0457,Barney's,"2125 8th Ave, Manhattan",Central Harlem South,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0459,Bombay Indian,"465 W 125th St, Manhattan",Morningside Heights,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0460,Bon Soir,"40 W 8th Street, Manhattan",West Village,Restaurant,B,"1962,1963 - 1964,1966 - 1967"
+G0461,Brass Rail,"100 Park Ave, Manhattan",Murray Hill-Kips Bay,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0462,Brass Rail,"521 5th Ave, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0463,Brass Rail,"745 7th Ave, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0464,Brass Rail,"500 8th Ave, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0467,China Bowl,"152 W 44th St, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0468,Chinese Rathskeller,"45 Mott St, Manhattan",Chinatown,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0469,Clara's Kitchen,"275 St Nicholas Ave, Manhattan",Morningside Heights,Restaurant,D,"1938,1940"
+G0470,Craig's,"55 St Nicholas Ave, Manhattan",Central Harlem South,Restaurant,D,"1938,1940"
+G0471,Danny's Corner,"2154 Amsterdam Ave, Manhattan",Washington Heights South,Restaurant,C,"1962,1966 - 1967"
+G0472,Danny's Hide-A-Way,"151 E 45th Street, Manhattan",Turtle Bay-East Midtown,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0473,Davy Jones Sea Food House,"103 W 49th St, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0474,Dawn Café,"1702 Amsterdam Ave, Manhattan",Hamilton Heights,Restaurant,C,"1962,1963 - 1964,1966 - 1967"
+G0476,Eddie's Restaurant,"714 St Nicholas Ave, Manhattan",Hamilton Heights,Restaurant,D,"1938,1940,1948,1962,1963 - 1964,1966 - 1967"
+G0477,Edgecombe Rootisseire,"431 Edgecombe Ave, Manhattan",Hamilton Heights,Restaurant,C,"1938,1940"
+G0478,El Charro,"4 Charles St, Manhattan",West Village,Restaurant,C,"1962,1963 - 1964,1966 - 1967"
+G0479,Elkin Bar,"2696 Broadway, Manhattan",Upper West Side,Restaurant,B,"1961,1962"
+G0480,Fisherman's Net,"495 3rd Ave, Manhattan",Murray Hill-Kips Bay,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0481,Four Star Restaurant,"2433 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0482,Frank's,"315 W 125th St, Manhattan",Central Harlem South,Restaurant,D,"1949,1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0484,Garland's,"266 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1940
+G0486,Harvey's Seafood Housse,"509 3d Ave, Manhattan",Murray Hill-Kips Bay,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0487,hearthstones,"102 E 22nd Street, Manhattan",Gramercy,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0488,Hickory House,"839 Second Ave, Manhattan",Turtle Bay-East Midtown,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0490,Ideal,"247 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1938,1940,1941"
+G0491,Jack Dempsey's,"1619 Broadway, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0492,Jimie's Chicken Shack,"763 St Nicholas Ave, Manhattan",Hamilton Heights,Restaurant,D,"1940,1941,1947"
+G0493,King of the Sea,"879 3rd Ave, Manhattan",Turtle Bay-East Midtown,Restaurant,D,"1962,1963 - 1964"
+G0494,King of the Sea,"879 3rd Ave, Manhattan",Turtle Bay-East Midtown,Restaurant,D,"1962,1966 - 1967"
+G0495,Little Gray Shop no. 2,"2465 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1938,1940,1941"
+G0496,Living ROom,"230 E 58th Street, Manhattan",Turtle Bay-East Midtown,Restaurant,A,1962
+G0498,Lou's Kitchen,"2297 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1938,1940,1941"
+G0499,Lum Fong,"150 W 52nd Street, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0500,Lundy's,"739 St Nicholas Ave, Manhattan",Hamilton Heights,Restaurant,D,"1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0501,Mama Laura,"209 W 125th street, Manhattan",Central Harlem South,Restaurant,D,"1962,1966 - 1967"
+G0503,Palm Café,"187 3rd Ave, Manhattan",Gramercy,Restaurant,D,1962
+G0504,Patricia Murphy,"33 E 60th Street, Manhattan",Upper East Side-Carnegie Hill,Restaurant,A,"1962,1963 - 1964,1966 - 1967"
+G0505,Patricia Murphy's Candlelight Rest.,"33 E 60th Street, Manhattan",Upper East Side-Carnegie Hill,Restaurant,A,"1962,1963 - 1964,1966 - 1967"
+G0506,Pen and Penci;,"205 E 4th Street, Manhattan",East Village,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0507,Pete's,"18 Irving Place, Manhattan",Gramercy,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0508,Pete's Creole Restaurant,"2534 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1938,1940,1941,1947,1949,1950,1951,1952,1953,1954"
+G0509,Phil's Res.,"187 3rd Ave, Manhattan",Gramercy,Restaurant,D,"1962,1963 - 1964,1966 - 1967"
+G0511,Ruby Foos,"240 W 52nd St, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0512,Sea Fare,"1033 First Ave, Manhattan",Turtle Bay-East Midtown,Restaurant,A,"1962,1963 - 1964,1966 - 1967"
+G0513,Sea Fare (2),"44 W 8th Street, Manhattan",West Village,Restaurant,B,1962
+G0514,Shamilar Restaurant,"2065 7th Ave, Manhattan",Central Harlem South,Restaurant,D,"1961,1962"
+G0516,Southern,"2201 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1938,1940"
+G0518,Steak joint,"58 Greenwich Ave, Manhattan",West Village,Restaurant,C,"1962,1963 - 1964,1966 - 1967"
+G0520,Surprise Restaurant,"2319 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1948,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962"
+G0521,The Palm Café,"209 W 125th street, Manhattan",Central Harlem South,Restaurant,D,"1948,1949,1950,1952,1953,1959,1960,1961,1963 - 1964,1966 - 1967"
+G0523,Virginia,"271 W 119th St, Manhattan",Central Harlem South,Restaurant,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953"
+G0524,Well's Restaurant,"2249 7th Avenue, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1941,1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0525,Zochitl Mexican Restaurant,"146 W 46th Street, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1941,1962"
+G0526,Millicent's,"826 St Nicholas Ave, Manhattan",Hamilton Heights,Restaurant,D,"1938,1941"
+G0527,Tillie's,"227 Lenox Ave, Manhattan",Central Harlem South,Restaurant,D,1941
+G0528,Viginia,"271 W 119th St, Manhattan",Central Harlem South,Restaurant,D,1941
+G0530,Ruths,"105 Lenox Ave, Manhattan",Central Harlem South,Restaurant,D,1941
+G0532,Otis Coles,"108 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1947
+G0533,Jim's Cuban Lunchionette,"2346 8th Ave, Manhattan",Central Harlem South,Restaurant,D,"1947,1948"
+G0534,Ritz Tearoom,"2310 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1938,1947,1948"
+G0535,The Squeeze Inn,"2125 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953"
+G0536,Helen's haven,"2930 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,Outside Zone,"1947,1948,1949,1950"
+G0537,Tabb's,"2354 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950"
+G0538,Watson's,"127 Lenox Ave, Manhattan",Central Harlem South,Restaurant,D,"1947,1948"
+G0539,El Mundilal,"2201 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1966 - 1967"
+G0540,James Bar-B-Q,"1835 Amsterdam Ave, Manhattan",Hamilton Heights,Restaurant,C,1947
+G0541,Brown's,"210 W 135th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957"
+G0542,E & M,"2016 7th Ave, Manhattan",Central Harlem South,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957"
+G0543,Davis',"2066 7th Ave, Manhattan",Central Harlem South,Restaurant,D,"1947,1949,1954"
+G0544,Pal's Inn,"307 W 125th St, Manhattan",Central Harlem South,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0545,Bell's Restaurant,"3618 Broadway, Manhattan",Hamilton Heights,Restaurant,B,"1947,1948,1950,1951"
+G0547,Pauline's,"1627 Amsterdam Ave, Manhattan",Hamilton Heights,Restaurant,C,"1947,1948,1949,1950,1951,1952,1953"
+G0548,Esquire Lunchonette,"2201 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955,1956"
+G0549,Bee Bee's Blueplate,"2373 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948"
+G0550,Al's,"57 Lenox Ave, Manhattan",Central Harlem South,Restaurant,D,"1947,1948"
+G0551,Sherman's Bar-B-Q,"1835 Amsterdam Ave, Manhattan",Hamilton Heights,Restaurant,C,"1947,1948"
+G0552,Em & Bee,"458 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954"
+G0553,Davis',"2066 7th Ave, Manhattan",Central Harlem South,Restaurant,D,"1947,1948,1950,1951,1952,1953,1955"
+G0555,Little Shack,"2267 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0556,Elsie's,"975 St Nicholas Ave, Manhattan",Washington Heights South,Restaurant,C,"1947,1948"
+G0557,Doris',"2066 7th Ave, Manhattan",Central Harlem South,Restaurant,D,1947
+G0558,Bell's Restaurant,"3618 Broadway, Manhattan",Hamilton Heights,Restaurant,B,"1947,1948"
+G0559,Jimmy's Shicken Shack,"763 St Nicholas Ave, Manhattan",Hamilton Heights,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0561,George's,"1921 Amsterdam Ave, Manhattan",Washington Heights South,Restaurant,C,"1947,1948,1949,1950,1951"
+G0562,Jennie Lou's,"2297 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0563,Hamburg Paradise,"377 W 125th St, Manhattan",Morningside Heights,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0564,Bodden & Clark,"2150 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1947,1948,1949,1950,1951,1952,1953"
+G0578,Avenue,"509 Fifth Ave, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1963 - 1964,1966 - 1967"
+G0579,Bus Stop Restaurant,"21 Macombs Place, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1963 - 1964,1966 - 1967"
+G0581,El Mundial,"222 W 116th St, Manhattan",Central Harlem South,Restaurant,D,1963 - 1964
+G0582,Mama Laura,"230 E 58th St, Manhattan",Turtle Bay-East Midtown,Restaurant,A,1963 - 1964
+G0583,Xochitl Mexican Restaurant,"146 W 46th St, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1963 - 1964,1966 - 1967"
+G0586,Sardo's Restaurant,"234 W 44th Street, Manhattan",Midtown-Midtown South,Restaurant,Outside Zone,"1959,1960,1961,1962"
+G0587,Pete's Creole Restaurant,"2230 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1948
+G0588,Bob's Lounge,"2165 8th Ave, Manhattan",Central Harlem South,Restaurant,D,"1948,1949,1950,1951,1952,1953"
+G0589,Lulu Belle's,"317 W 126th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959"
+G0590,Chimes,"731 St Nicholas Ave, Manhattan",Hamilton Heights,Restaurant,D,1948
+G0591,Harlem,"2522 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1948
+G0592,Golden Grill,"356 W 145th St, Manhattan",Hamilton Heights,Restaurant,D,1948
+G0602,Bell's Cocktail Lounge,"3616 Broadway, Manhattan",Hamilton Heights,Restaurant,B,1949
+G0603,Surprise Rotisserie,"2319 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1949,1950,1951"
+G0604,Jimmie's,"307 West 125th St, Manhattan",Central Harlem South,Restaurant,D,"1949,1950,1951,1952,1953,1954,1955"
+G0605,Beverly Hills,"303 West 145th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,"1949,1950,1951,1952,1953,1954"
+G0607,Shalimar,"2065 7th Ave, Manhattan",Central Harlem South,Restaurant,D,"1950,1951,1952,1953,1954,1955,1959,1960,1962"
+G0608,Frazier's,"2067 7th Ave, Manhattan",Central Harlem South,Restaurant,D,"1950,1951,1952,1953,1954,1955,1959,1962"
+G0613,Serve-U,"805 St Nicholas Ave, Manhattan",Hamilton Heights,Room Service,D,"1939,1940"
+G0614,Apex,"200 W 135th St, Manhattan",Central Harlem North-Polo Grounds,School of Beauty Culture,D,"1940,1941"
+G0617,Madame C. J.,"239 W 125th St, Manhattan",Central Harlem South,School of Beauty Culture,D,1941
+G0622,La Fontaine Services (1),"470 Convent Av, Manhattan",Hamilton Heights,Tailor / Cleaner,D,"1937,1939,1940,1941,1949,1950,1951,1952,1953,1954,1955"
+G0623,La Fontaine Services (2),"764 St Nicholas Ave, Manhattan",Hamilton Heights,Tailor / Cleaner,D,1939
+G0624,Little Alpha Service,"200 W 136th St, Manhattan",Central Harlem North-Polo Grounds,Tailor / Cleaner,D,"1937,1939,1940,1941,1948,1949,1950,1951,1952,1953,1954,1955"
+G0625,L.D. Colley,"100 W 134th St, Manhattan",Central Harlem North-Polo Grounds,Tailor,D,"1940,1941"
+G0626,Robert Lewis,"1980 7th Ave, Manhattan",Central Harlem South,Tailor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0627,Globe,"2894 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tailor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0628,7th Ave Tailors,"2051 Seventh Ave, Manhattan",Central Harlem South,Tailor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0629,Broadway,"92 St Nicholas Ave, Manhattan",Central Harlem South,Tailor,D,"1948,1949,1951,1952"
+G0630,Dig-by Cleaners,"300 West 111th Street, Manhattan",Central Harlem South,Tailor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0631,Hill Side,"513 West 145th St, Manhattan",Hamilton Heights,Tailor,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0632,Rainey's,"1869 Amsterdam Ave, Manhattan",Hamilton Heights,Tailor,C,"1948,1949,1950,1951"
+G0633,Dillette's,"101 Edgecombe Ave, Manhattan",Central Harlem North-Polo Grounds,Tailor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0634,Bill's,"3665 Broadway, Manhattan",Hamilton Heights,Tailor,B,1948
+G0637,Broadway,"92 St Nicholas Ave, Manhattan",Central Harlem South,Tailor,D,"1948,1949,1950,1953"
+G0640,Tucker,"260 Broadway, Manhattan",SoHo-TriBeCa-Civic Center-Little Italy,Tailor,Outside Zone,"1950,1951,1952,1953,1954"
+G0642,Al's,"415 W 125th Street, Manhattan",Morningside Heights,Tavern,Outside Zone,"1947,1948,1949,1950,1951,1952,1953,1954"
+G0647,Chateau Lounge,"379 W 125th St, Manhattan",Morningside Heights,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0648,Clover Bar & Grill,"1735 Amsterdam Ave, Manhattan",Hamilton Heights,Tavern,C,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0649,Coran's,"2359 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0650,Daniel's,"2461 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0651,Dawn Cafe,"1311 Amsterdam Ave, Manhattan",Morningside Heights,Tavern,D,1947
+G0653,Arthur's,"2481 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1938,1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0655,Bank's,"2338 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954"
+G0656,Firpo's,"503 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0657,Barfield,"2379 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950"
+G0658,George Farrell's,"2711 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954"
+G0659,Harlem Bar & Grill,"2140 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1938,1947,1948,1949,1950,1951,1952"
+G0660,Big Apple,"2300 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1938,1940,1941,1947,1948"
+G0662,Blue Heaven,"378 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1938,1940,1941,1948,1949,1950,1951,1952,1953,1954,1955"
+G0663,Borderline,"7 W 110th St, Manhattan",Central Harlem South,Tavern,D,1940
+G0665,Brittwood,"594 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0668,C. L. D.,"1948 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1951"
+G0669,Calvacade,"2104 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1938,1940,1941,1948,1949,1950,1951,1952"
+G0671,Chick's,"2501 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0672,Colonial Krazy House,"116 Bradhurst Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1939,1940,1941,1948,1949,1950,1951,1952,1953,1954,1955"
+G0673,Covan's,"371 W 125th St, Manhattan",Morningside Heights,Tavern,D,"1947,1948"
+G0674,Dawn,"1931 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,"1947,1949,1951,1952,1953,1955"
+G0675,Dolen-Tayler,"134 Hamilton Pl, Manhattan",Hamilton Heights,Tavern,C,"1947,1948"
+G0676,Dore's Bar & Grill,"2163 5th Ave, Manhattan",East Harlem North,Tavern,D,"1939,1940"
+G0677,Eddie's,"714 St Nicholas Ave, Manhattan",Hamilton Heights,Tavern,D,"1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0678,El Favorito Bar,"2055 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1953,1954,1955"
+G0679,Elk Scene,"469 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1938,1940,1941,1947,1948,1949,1950,1951,1952"
+G0681,Frank Lezama,"3578 Broadway, Manhattan",Hamilton Heights,Tavern,B,"1947,1948,1949,1951,1952,1953,1954"
+G0682,Frank's,"313 W 125th St, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1950,1951,1952,1954,1955"
+G0683,Frankie's Café,"2328 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0684,Golden Bar and Grill,"356 W 145th St, Manhattan",Hamilton Heights,Tavern,D,"1938,1947,1948,1949,1950"
+G0686,Heat Wave,"1991 7th Ave, Manhattan",Central Harlem South,Tavern,D,1940
+G0687,Hot-Cha,"2280 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0688,International Bar & Grille,"2150 5th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1939,1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0689,Jack Carters,"1890 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0690,Jay's,"400 W 148th St, Manhattan",Hamilton Heights,Tavern,D,"1940,1941,1947"
+G0692,Horseshoe,"2474 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0693,Jimmie Daniels,"114 W 116th St, Manhattan",Central Harlem South,Tavern,D,"1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0694,Joe Louis,"11 W 125th St, Manhattan",Central Harlem South,Tavern,D,1947
+G0695,John Allen's,"207 W 116th St, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0696,La Mar Cheri,"739 St Nicholas Ave, Manhattan",Hamilton Heights,Tavern,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0697,Lenos'x Lounge,"290 Lenox Ave, Manhattan",Central Harlem South,Tavern,D,1947
+G0698,Little Zhack,"2267 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948"
+G0699,Logas,"2496 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0700,Mac's,"267 W 125th St, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952"
+G0701,Mayfair,"773 St Nicholas Ave, Manhattan",Hamilton Heights,Tavern,D,"1941,1947,1948,1949"
+G0702,Monte Carlo,"2247 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0703,Moon Glow,"220 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1951,1952,1953,1954"
+G0705,Murrain,"635 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0706,Old Time Tavern,"2204 5th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,Outside Zone,"1940,1941,1947"
+G0707,Orange Blossom,"570 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1949,1950"
+G0708,Palm,"209 W125th St, Manhattan",Central Harlem South,Tavern,D,"1947,1949,1951,1954,1955"
+G0709,Jerry's Bar,"2091 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952"
+G0710,Jock's,"2350 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1947
+G0711,Johnson's,"614 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949"
+G0712,L- Bar,"3601 Broadway, Manhattan",Hamilton Heights,Tavern,B,"1947,1949,1955"
+G0713,L. Bowman's,"92 St Nicholas Place, Manhattan",Hamilton Heights,Tavern,D,"1947,1949,1950,1951,1952,1953,1954,1955"
+G0715,Mandalay,"2201 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0716,Novelty Bar & Grill,"2711 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1955"
+G0717,Old Pasadena,"2350 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1951,1952,1953,1955"
+G0719,Paradise,"2035 8th Ave, Manhattan",Central Harlem South,Tavern,D,1947
+G0720,Parkway,"2063 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948"
+G0721,Pasadena,"2350 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1950,1954"
+G0722,Pedro Montanez,"22 Lenox Ave, Manhattan",Central Harlem South,Tavern,D,"1940,1941"
+G0723,Pelican,"45 Lenox Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0724,Poor John's,"2268 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0725,Pop's Bar & Lounge,"1981 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,"1947,1948"
+G0728,Red Tip,"2470 7th Av, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0729,Renny,"2359 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0731,S. S. Francois,"2104 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948"
+G0732,Shalimar,"3638 Broadway, Manhattan",Hamilton Heights,Tavern,B,"1947,1948,1949,1950,1951,1952"
+G0733,Speedway,"92 St Nicholas Place, Manhattan",Hamilton Heights,Tavern,D,"1940,1941,1947"
+G0734,Sportsman's Inn,"2308 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952,1954,1955"
+G0735,Swanee,"218 St Nicholas Ave, Manhattan",Central Harlem South,Tavern,D,1940
+G0736,Swanky Bar & Grill,"1744 Amsterdam Ave, Manhattan",Hamilton Heights,Tavern,C,"1947,1948,1949"
+G0737,Tee Old Time Taver,"2168 5th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1939
+G0738,The Colonial,"2321 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952"
+G0740,Victoria,"2418 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1940,1941,1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0741,Village Inn,"2204 5th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,Outside Zone,"1939,1940"
+G0742,Well's Cocktail Bar,"2249 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1947
+G0743,Well's Musical Bar,"2249 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0745,William's,"2011 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0746,Lenox Lounge,"290 Lenox Ave, Manhattan",Central Harlem South,Tavern,D,"1948,1949,1950,1951"
+G0747,Old Time Tavern,"2160 5th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1948,1950"
+G0748,Club Zambezi,"2267 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0749,Bird Cage,"2308 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1948,1949,1950,1952,1953,1954,1955"
+G0750,Bogan's Bar and Grill,"2154 Eighth Ave, Manhattan",Central Harlem South,Tavern,D,"1948,1949,1950,1951,1952,1953,1954"
+G0751,Paradise,"2033 8th Ave, Manhattan",Central Harlem South,Tavern,D,1948
+G0752,Brownie's,"2557 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1948,1949,1950,1951,1952,1953,1954"
+G0753,Mardi Gras Bar,"1951 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0755,Dexter's,"2029 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,1948
+G0757,Silver Rail,"2165 8th Ave, Manhattan",Central Harlem South,Tavern,D,"1948,1949,1951,1952,1953"
+G0759,William's,"2017 5th Ave, Manhattan",East Harlem North,Tavern,D,"1948,1949,1950,1951,1952,1953"
+G0761,Sugar Ray's,"2074 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955,1963 - 1964,1966 - 1967"
+G0762,Hawkin's,"308 West 125th Street, Manhattan",Central Harlem South,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0763,Apollo,"303 West 125th Street, Manhattan",Central Harlem South,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0764,Welcome Inn,"2895 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0765,L-Bar,"3061 Broadway, Manhattan",Morningside Heights,Tavern,B,"1948,1951,1952,1954"
+G0766,Dawn's Cafe,"1931 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,1948
+G0812,Old Time Tavern,"2160 5th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1949
+G0813,Farrell's,"2175 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0814,Chico's,"2014 5th Ave, Manhattan",Central Harlem South,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0816,C. L. D. Grill,"1958 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1949,1950"
+G0817,Moon Glow,"2461 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1949,1950"
+G0818,Novelty Bar & Grill,"1965 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,"1949,1951,1952,1954"
+G0819,Roma Gardens,"275 West 116th St, Manhattan",Central Harlem South,Tavern,D,"1949,1950,1951"
+G0820,Shep's,"1978 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,"1949,1951,1952"
+G0855,Gold Coast,"2017 5th Ave, Manhattan",East Harlem North,Tavern,D,"1948,1949,1950,1951,1952,1953,1954"
+G0857,Dawn Cafe,"1931 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,"1948,1949,1950,1952,1954,1955"
+G0860,C. & H.,"382 7th Ave, Manhattan",Midtown-Midtown South,Tavern,Outside Zone,"1950,1951"
+G0864,El Favorito Bar,"2055 Eighth Ave, Manhattan",Central Harlem South,Tavern,D,1952
+G0865,Magnet,"560 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1952
+G0866,Fez,"1958 7th Ave, Manhattan",Central Harlem South,Tavern,D,"1952,1953,1954,1955"
+G0867,Bali,"2096 Amsterdam Ave, Manhattan",Washington Heights South,Tavern,C,"1952,1953,1954,1955"
+G0868,"Savannah Club ""66""","68 West 3rd St, Manhattan",West Village,Tavern,D,"1952,1953,1954,1955"
+G0873,Elk Scene,"439 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1953,1954,1955"
+G0874,Magnet,"570 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,"1953,1954,1955"
+G0884,Mrs. Agnes Babb,"68 East 127th Street, Manhattan",Central Harlem North-Polo Grounds,Tourist Home,D,"1952,1953,1954,1955"
+G0885,Wines and Liquors,"483 W 155th St, Manhattan",Washington Heights South,Wine & liquor,C,1939
+G0895,Holland,"351 W 42nd Street, Manhattan",Clinton,Wine & liquor,D,1962
+G0897,La Ritz Beauty Salon,"2205 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Salon,D,1937
+G0898,New Manhattan Restaurant,"503 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1937
+G0902,Radio Service Laboratory,"2540 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Radio Repair,D,1937
+G0905,Hollis' Bicycle Store,"127 W 135th ST, Manhattan",Central Harlem North-Polo Grounds,Bicycle Store,D,1937
+G0906,Pep'em Up,"155 145th ST, Manhattan",Central Harlem North-Polo Grounds,Auto,D,1937
+G0907,Martinez Tire Store,"612 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Auto,D,1937
+G0910,R & S Electrician,"646 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Electrician,D,1937
+G0911,Richard's General Repairing,"112 W 145th ST, Manhattan",Central Harlem North-Polo Grounds,Auto,D,1937
+G0912,Lou Price Auto Sales,"4330 Broadway, Manhattan",Washington Heights North,Auto,B,1937
+G0913,H. G. Facey,"705 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Auto,Outside Zone,1937
+G0914,W. J. McAvoy,"703 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Auto,Outside Zone,1937
+G0916,Gene's Auto Repair,"414 W  155th ST, Manhattan",Hamilton Heights,Auto,C,1937
+G0918,8th Ave Auto Painting & Auto Shop,"306-8 W 143rd ST, Manhattan",Central Harlem North-Polo Grounds,Auto,D,1937
+G0919,J. Jones General AUto Repair,"120 W 125th ST, Manhattan",Central Harlem South,Auto,D,1937
+G0920,Ansonia,"2230 8th Ave, Manhattan",Central Harlem South,Restaurant,D,1938
+G0921,Bolivia Rotessarie,"2143 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0923,Cafe California,"730 St Nicholas AVe, Manhattan",Hamilton Heights,Restaurant,D,1938
+G0925,Cherry BLossom,"338 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0926,Cotton,"630 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0927,Cozy Shoppe,"2154 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0928,Dixie Cafeteria,"2657 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0929,Drake,"2170 7th AVE, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0930,El Mundilal,"222 W 116th ST, Manhattan",Central Harlem South,Restaurant,D,1938
+G0931,Harlem Sea Food,"2126 7th AVE, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0932,Holly Mount,"2219 8Th AVE, Manhattan",Central Harlem South,Restaurant,D,1938
+G0933,Little Gray Shop No. 3,"266 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0934,Liberty,"2230 8th Ave, Manhattan",Central Harlem South,Restaurant,D,1938
+G0935,Luxor,"2394 8th AVe, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0937,Monterey,"2330 7th AVE, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0938,New York Lunch,"2723 8th AVE, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0939,Oyster Bay,"2288 8th Ave, Manhattan",Central Harlem South,Restaurant,D,1938
+G0940,Sheffield's,"2343 8th Ave, Manhattan",Central Harlem South,Restaurant,D,1938
+G0941,Solar Cafeteria,"2201 7th AVe, Manhattan",Central Harlem North-Polo Grounds,Restaurant,D,1938
+G0942,Southern,"351 w 125th ST, Manhattan",Morningside Heights,Restaurant,D,1938
+G0943,Thomford's,"227 Lenox AVe, Manhattan",Central Harlem South,Restaurant,D,1938
+G0944,Tillie's,"207 W 125th ST, Manhattan",Central Harlem South,Restaurant,D,1938
+G0946,Blackbirds Inn,"2130 7th AVe, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0947,Brittwood,"594 Lenox Av, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0950,Elbow Inn,"658 Lenox AVe, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0951,Florentine,"2175 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0952,Gotham,"2440 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0953,Gus',"565 Lenox AVe, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0954,Harlem Moon,"2320 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0955,Harlem Hollywood,"105 W 116th St, Manhattan",Central Harlem South,Tavern,D,1938
+G0956,Harlem Moon,"2320 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0957,Heat Wave,"1991 7th Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0958,Hot-cha,"2280 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0959,Horee Shoe,"2474 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0960,Jay's,"400 W 148th St, Manhattan",Hamilton Heights,Tavern,D,1938
+G0962,La Mar Cheri,"739 St Nicholas Ave, Manhattan",Hamilton Heights,Tavern,D,1938
+G0963,Lenox Empire,"281 Lenox Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0964,Lincoln,"518 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0965,Lincoln Grill,"2046 7th Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0966,Lildale,"2469 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0967,Logas,"2469 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0971,Monte Carlo,"2247 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0972,Moulin Rouge,"2454 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0973,Murrain,"635 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0974,New Harlem,"515 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0975,New Manhattan,"503 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0976,New Thrill,"2 Bradhurst Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0977,Orange Blossom,"570 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0978,Palace,"535 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0979,Paradise Inn,"2342 8th Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0980,Pedro Montanez,"23 Lenox Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0981,Roma Gardens,"257 W 116th St, Manhattan",Central Harlem South,Tavern,D,1938
+G0982,Red Arrow,"2259 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0983,Reliance,"207 W 116th St, Manhattan",Central Harlem South,Tavern,D,1938
+G0984,Renaissance,"2359 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0985,Rythm Club,"2245 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0987,Shanty Inn,"2191 8th Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0988,Silver Cup,"2430 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0989,Speedway,"92 St Nicholas Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0990,Sports Innn,"2308 8th Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0991,Swanee,"218 St Nicholas Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0992,The Partridge Inn,"106 St Nicholas Ave, Manhattan",Central Harlem South,Tavern,D,1938
+G0993,Tom's Cabin,"760 St Nicholas Ave, Manhattan",Hamilton Heights,Tavern,D,1938
+G0994,Victoria,"2418 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0995,Welcome Inn,"2895 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0996,Wonder Bar,"2193 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0997,Wonder Bar,"302 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0998,Yeah Man,"2350 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Tavern,D,1938
+G0999,Capitol,"115 Lenox Ave, Manhattan",Central Harlem South,Night Club,D,1938
+G1004,101 Ranch,"101 W 139th St, Manhattan",Central Harlem North-Polo Grounds,Night Club,D,1938
+G1005,A. McCargo,"242 W 145 St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1006,B. Carey,"2521 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1007,B. Garrett,"2311 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1008,Eldorado,"203 W 116 St, Manhattan",Central Harlem South,Barber Shop,D,1938
+G1009,Esquire,"2265 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1010,Hi-Hat,"2276 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1011,Hoghie Rayford,"2013 7th Ave, Manhattan",Central Harlem South,Barber Shop,D,1938
+G1012,H. Parks,"200 W 146th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1013,Latin America,"2395 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1014,Leon & Teddy's,"353 W 145th St, Manhattan",Hamilton Heights,Barber Shop,D,1938
+G1015,Lud,"166 W 116th St, Manhattan",Central Harlem South,Barber Shop,D,1938
+G1016,Park Lane,"2206 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1017,Manhattan,"2456 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1018,Majestic,"130 W 116 St, Manhattan",Central Harlem South,Barber Shop,D,1938
+G1019,Modernistic,"2132 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1020,Roxy,"2322 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1021,Royal,"749 St Nicholas Ave, Manhattan",Hamilton Heights,Barber Shop,D,1938
+G1022,Edean,"237 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1023,Spanish America,"2637 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1024,Spooner's,"2435 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1025,World,"2621 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Barber Shop,D,1938
+G1026,B. Pierce,"2370 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1027,Beard's,"322 St Nicholas Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1028,Beulah's,"350 Manhattan Ave, Manhattan",Central Harlem South,Beauty Parlor,D,1938
+G1029,Chassie,"2148 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1030,Constance,"2192 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1031,De Lux,"2422 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1032,Dutchess,"2392 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1033,Evelyn's,"713 St Nicholas Ave, Manhattan",Hamilton Heights,Beauty Parlor,D,1938
+G1034,Frances,"2446 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1035,G. Warren,"348 W 145th St, Manhattan",Hamilton Heights,Beauty Parlor,D,1938
+G1036,Glady's,"472 Convent Ave, Manhattan",Hamilton Heights,Beauty Parlor,D,1938
+G1037,Harris,"2194 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1038,Helen's,"217 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1039,Ideal,"245 W 116th St, Manhattan",Central Harlem South,Beauty Parlor,D,1938
+G1041,Josephine's,"212 St Nicholas Ave, Manhattan",Central Harlem South,Beauty Parlor,D,1938
+G1042,La Bolita,"19 St Nicholas Ave, Manhattan",Central Harlem South,Beauty Parlor,D,1938
+G1043,Lotties,"2468 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1044,Lu Audra,"2352 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1045,Mae's,"720 St Nicholas Ave, Manhattan",Hamilton Heights,Beauty Parlor,D,1938
+G1046,Mamies,"245 W 116 St, Manhattan",Central Harlem South,Beauty Parlor,D,1938
+G1047,Murians,"402 St Nicholas Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1048,New Way,"143 W 116th St, Manhattan",Central Harlem South,Beauty Parlor,D,1938
+G1049,Park Lane,"2166 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1050,Personality,"2124 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1051,Powder Puff,"2487 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1052,Sybils,"2124 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Beauty Parlor,D,1938
+G1053,Silver Leaf,"461 W 150th St, Manhattan",Hamilton Heights,Beauty Parlor,C,1938
+G1054,Andy Radiator,"416 W 127th St, Manhattan",Manhattanville,Automotive,Outside Zone,1938
+G1057,Daly Bros.,"484 St Nicholas Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1058,Green's Auto,"110 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1059,H. Facey Painting,"705 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,Outside Zone,1938
+G1060,J. Jones Repairs,"120 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1061,L. Martinez,"612 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1062,Meisel Tire,"2079 7th Ave, Manhattan",Central Harlem South,Automotive,D,1938
+G1063,Nathan Auto Parts,"34 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,Outside Zone,1938
+G1064,R. & S Auto Elec.,"626 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1065,Richards Auto Repairing,"112 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1066,Stanley Brake,"1020 St Nicholas Ave, Manhattan",Washington Heights South,Automotive,C,1938
+G1067,Simons Supply,"133 W 145th St, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1068,Uilman & Hauser,"27 St Claire Pl, Manhattan",Manhattanville,Automotive,Outside Zone,1938
+G1069,Viaduct Garage,"101 Edgecombe Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,D,1938
+G1070,"W. J. McAvoy, Ignition","703 Lenox Ave, Manhattan",Central Harlem North-Polo Grounds,Automotive,Outside Zone,1938
+G1071,Community,"2368 7th Ave, Manhattan",Central Harlem North-Polo Grounds,Auto Loan,D,1938
+G1072,Colonial Park,"310 W 144th St, Manhattan",Central Harlem North-Polo Grounds,Garage,D,1938
+G1073,Club Danceland,"322 W 125th St, Manhattan",Central Harlem South,Dance Hall,D,1938
+G1075,Follies Ball Room,"2356 8th Ave, Manhattan",Central Harlem North-Polo Grounds,Dance Hall,D,1938
+G0026,La Marchal Supper Club,"1873 Nostrand Ave, Brooklyn",Erasmus,Bar,Outside Zone,"1961,1962,1963 - 1964,1966 - 1967"
+G0094,Katherine's,"345 Sumner Ave, Brooklyn",Stuyvesant Heights,Beauty Parlor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0095,Ideal,"285-A Sumner Ave, Brooklyn",Stuyvesant Heights,Beauty Parlor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0096,Mariett's,"451 Nostrand Ave, Brooklyn",Bedford,Beauty Parlor,D,"1948,1949,1950,1951,1952,1953,1954"
+G0097,Louis,"52 New York Ave, Brooklyn",Crown Heights North,Beauty Parlor,D,1948
+G0101,Edith's,"389 Tompkins Ave, Brooklyn",Bedford,Beauty Parlor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0102,LaRoberts,"322 Macon St, Brooklyn",Stuyvesant Heights,Beauty Parlor,D,"1950,1951,1952,1953,1954,1955"
+G0107,Bartleys,"1125 Fulton St, Brooklyn",Clinton Hill,Beauty Parlor,D,"1939,1948,1949,1950,1951,1952,1953,1954,1955"
+G0110,Cloverleaf,"425 Gates Ave, Brooklyn",Bedford,Beauty Parlor,D,1939
+G0111,Diddy's,"1518 Fulton St, Brooklyn",Crown Heights North,Beauty Parlor,D,1939
+G0112,Emma's,"1391 Fulton St, Brooklyn",Bedford,Beauty Parlor,D,1939
+G0113,L. Roberts,"285 Grand Ave, Brooklyn",Clinton Hill,Beauty Parlor,D,1939
+G0114,Lamae,"545 Classon Ave, Brooklyn",Clinton Hill,Beauty Parlor,D,1939
+G0118,New Shanghai,"361 Nostrand Ave, Brooklyn",Bedford,Chinese Restaurant,D,"1951,1952,1953,1954,1955"
+G0119,Fulton Palace,"1139 Fulton St, Brooklyn",Clinton Hill,Chinese Restaurant,D,"1951,1952,1953,1954,1955"
+G0120,Chung King,"1139 Fulton St, Brooklyn",Clinton Hill,Chinese Restaurant,D,"1954,1955"
+G0124,Bedford,"1153 Atlantic Ave, Brooklyn",Crown Heights North,Dance Hall,D,1939
+G0132,Provident,"1265 Bedford Ave, Brooklyn",Crown Heights North,Drug Store,D,"1949,1950,1951,1952,1953,1954,1955"
+G0190,La Marchal,"1200 President Street, Brooklyn",Crown Heights South,Hotel,B,"1961,1962,1963 - 1964,1966 - 1967"
+G0191,Lefferts Hotel,"127 Lefferts place, Brooklyn",Clinton Hill,Hotel,D,"1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0192,Lincoln Plaza Hotel,"153 Lincoln Place, Brooklyn",Park Slope-Gowanus,Hotel,C,"1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0193,Lincoln Terrace Hotel,"1483 Pacific Street, Brooklyn",Crown Heights North,Hotel,D,"1954,1955,1956,1957,1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0201,Mohawk Hotel,"379 Washington Ave, Brooklyn",Clinton Hill,Hotel,C,"1961,1962,1963 - 1964,1966 - 1967"
+G0234,Garfield,"160 Reid Ave, Brooklyn",Stuyvesant Heights,Hotel,D,"1953,1954,1955,1956"
+G0238,Boarding House,"160 Reid Ave, Brooklyn",Stuyvesant Heights,Hotel,D,"1955,1959,1960"
+G0329,Franklin Arms Hotel,"66 Orange St, Brooklyn",Brooklyn Heights-Cobble Hill,Hotel,B,"1963 - 1964,1966 - 1967"
+G0332,Gregory Hotel,"8315 4th Ave, Brooklyn",Bay Ridge,Hotel,B,"1963 - 1964,1966 - 1967"
+G0334,Sea Isle Motor Inn,"3900 Shore Parkway, Brooklyn",Sheepshead Bay-Gerritsen Beach-Manhattan Beach,Hotel,D,"1963 - 1964,1966 - 1967"
+G0342,YMCA,"405 Carlton Ave, Brooklyn",Fort Greene,Hotel,D,"1948,1949,1950,1951,1952,1953,1954,1955,1956,1957"
+G0343,Burma,"145 Gates Ave, Brooklyn",Clinton Hill,Hotel,D,"1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959"
+G0344,T.C.U.,"1124 Fulton St, Brooklyn",Clinton Hill,Hotel,D,1948
+G0369,Yak,"1361 Fulton St, Brooklyn",Bedford,Liquor Store,D,"1949,1950,1951,1952,1953,1954,1955"
+G0370,Lincoln,"401 Tompkins Ave, Brooklyn",Bedford,Liquor Store,D,"1949,1950,1951,1952,1953,1954,1955"
+G0371,York,"1361 Fulton St, Brooklyn",Bedford,Liquor Store,D,"1949,1950,1951,1952,1953,1954,1955"
+G0372,Stuyvesant,"1551 Fulton St, Brooklyn",Stuyvesant Heights,Liquor Store,D,"1949,1950,1951,1952,1953,1954,1955"
+G0373,Allen Rose,"106 Kingston Ave, Brooklyn",Crown Heights North,Liquor Store,D,"1949,1950,1951,1952,1953,1954,1955"
+G0415,Lion's,"307 Ralph Ave, Brooklyn",Ocean Hill,Night Club,D,"1939,1949,1950,1951"
+G0451,Ebony,"1330 Fulton St, Brooklyn",Crown Heights North,Night Club,D,"1954,1955"
+G0453,Cummins Realty Co.,"19 MacDougal St, Brooklyn",Stuyvesant Heights,Realtor,D,1952
+G0454,Al's Restaurant,"1550 Fulton Street, Brooklyn",Crown Heights North,Restaurant,D,"1961,1962,1963 - 1964,1966 - 1967"
+G0466,Caravan Restaurant,"377 Hancock Street, Brooklyn",Bedford,Restaurant,D,"1950,1957,1961,1962,1966 - 1967"
+G0475,Dew Drop Restaruant,"363 halsey Street, Brooklyn",Stuyvesant Heights,Restaurant,D,"1939,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0483,G & H Restaurant,"382 Sumner Ave, Brooklyn",Stuyvesant Heights,Restaurant,D,"1950,1951,1952,1953,1954,1955,1956,1957,1959,1960,1961,1962,1963 - 1964,1966 - 1967"
+G0565,M & M,"1455 Fulton St, Brooklyn",Bedford,Restaurant,D,1939
+G0566,Richardson,"1686 Fulton St, Brooklyn",Crown Heights North,Restaurant,D,1939
+G0573,Staghead Club,"199-29 Linden Blvd, Brooklyn",Prospect Lefferts Gardens-Wingate,Restaurant,B,"1961,1962"
+G0574,Caravan Restaurant,"175 Willoughby Ave, Brooklyn",Clinton Hill,Restaurant,D,1963 - 1964
+G0594,Bernice's Cafeteria,"105 Kingston Ave, Brooklyn",Crown Heights North,Restaurant,D,"1948,1949,1950,1951,1952,1953,1954"
+G0595,Spick & Span,"70 Kingston Ave, Brooklyn",Crown Heights North,Restaurant,D,"1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1959"
+G0596,Sevelle Bar-B-Q,"237 Sumner Ave, Brooklyn",Stuyvesant Heights,Restaurant,D,"1948,1949,1950,1951"
+G0600,Daniel's,"1107 Prospect Ave, Brooklyn",Windsor Terrace,Restaurant,C,"1948,1949,1950,1951,1952,1953,1955,1956"
+G0610,Continental,"706 Nostrand Ave, Brooklyn",Crown Heights North,Restaurant,C,"1954,1955,1956"
+G0611,Jackson's,"1558 Fulton St, Brooklyn",Crown Heights North,Restaurant,D,"1954,1955,1956,1957"
+G0615,J.K.,"417 Tompkins Ave, Brooklyn",Bedford,School of Beauty Culture,D,1939
+G0616,Lmaneloo,"1345 Fulton St, Brooklyn",Bedford,School of Beauty Culture,D,1939
+G0618,Ritz,"1358 Fulton St, Brooklyn",Crown Heights North,School of Beauty Culture,D,1939
+G0619,Theresa,"304 Livonia Ave, Brooklyn",Brownsville,School of Beauty Culture,D,"1939,1948,1949,1950,1951,1952,1953,1954,1955"
+G0635,G & O,"84 Troy Ave, Brooklyn",Crown Heights North,Tailor,D,"1948,1949,1950,1951,1954"
+G0641,Bea Jay,"1722 Fulton St, Brooklyn",Crown Heights North,Tailor,D,"1951,1952,1953,1954,1955"
+G0730,Royal Hotel,"1073 Fulton St, Brooklyn",Clinton Hill,Tavern,D,"1939,1948,1949,1950,1951,1952,1953,1954,1955"
+G0739,Utopia,"1093 Fulton St, Brooklyn",Clinton Hill,Tavern,D,1939
+G0768,Parkside,"759 Gates Ave, Brooklyn",Stuyvesant Heights,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0821,Decatur Bar and Grill,"301 Reid Ave, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0824,Gallagher's Bar,"249 Reid Ave, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1950,1951"
+G0825,Disler's,"759 Gates Ave, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0826,Elegant Bar and Grill,"1420 Fulton St, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953"
+G0827,Verona Leafe,"1330 Fulton St, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0828,K & C Tavern,"588 Gates Ave, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0829,George's,"328 Tompkins Ave, Brooklyn",Bedford,Tavern,D,"1949,1950,1951,1952,1953"
+G0830,Smitty's,"286 Patchen Ave, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0831,Casablanca,"300 Reid Ave, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0833,Bedford Rest,"1253 Bedford Ave, Brooklyn",Crown Heights North,Tavern,D,1949
+G0834,Country Cottage,"375 Franklin Ave, Brooklyn",Clinton Hill,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0835,Bombay,"377 Christopher Ave, Brooklyn",Brownsville,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0836,Corba,"1593 E New York Ave, Brooklyn",Ocean Hill,Tavern,D,"1949,1950,1951"
+G0837,Traveler's Inn,"5A Hull St, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0838,Bandwagon,"122 Troy Ave, Brooklyn",Crown Heights North,Tavern,D,1949
+G0840,Berry Bros.,"1714 Fulton St, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0842,Bar 668,"688 Halsey St, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1951,1952,1953,1954,1955"
+G0843,Brooklyn Fraternal,"1068 Fulton St, Brooklyn",Clinton Hill,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0844,Frank & Murry's,"95 Varet St, Brooklyn",East Williamsburg,Tavern,D,"1949,1950,1951,1952,1953"
+G0845,Topside,"224 Ralph Ave, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953"
+G0846,Ward's,"1825 Fulton St, Brooklyn",Crown Heights North,Tavern,D,"1949,1950,1951,1952,1953,1955"
+G0847,Jefferson,"397 Tompkins Ave, Brooklyn",Bedford,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0848,Bushwick,"375 Bushwick Ave, Brooklyn",Bushwick South,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0849,Lorene's,"373 Nostrand Ave, Brooklyn",Bedford,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0850,Turbo Village,"249 Reid Ave, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0851,Elmo,"243 Reid Ave, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0852,Summer,"693 Gates Ave, Brooklyn",Stuyvesant Heights,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0859,Frank's Caravan,"377 Hancock St, Brooklyn",Bedford,Tavern,D,"1950,1951,1952,1953,1954,1955,1956,1957,1959,1960"
+G0861,Ace High,"1172 Fulton St, Brooklyn",Clinton Hill,Tavern,D,"1951,1952,1953"
+G0862,Lucky Spot,"307 Grand Ave, Brooklyn",Clinton Hill,Tavern,D,"1951,1952,1953"
+G0870,Laredo Bar,"1624 Fulton St, Brooklyn",Crown Heights North,Tavern,D,"1952,1953,1954,1955"
+G0871,7 Moons,"793 Bedford Ave, Brooklyn",Bedford,Tavern,D,"1952,1953"
+G0872,Baby Grand,"1274 Fulton Street, Brooklyn",Crown Heights North,Tavern,D,"1952,1953,1954,1955"
+G0876,Tip Top,"1750 Fulton St, Brooklyn",Crown Heights North,Tavern,D,"1953,1954,1955"
+G0877,Topside,"224 Ralph Ave, Brooklyn",Crown Heights North,Tavern,D,"1953,1954,1955"
+G0881,Topside,"537 Marcy Ave, Brooklyn",Bedford,Tavern,D,"1954,1955"
+G0883,Mrs. A.E. Bryan,"156 Lefferts Pl, Brooklyn",Clinton Hill,Tourist Home,D,1939
+G0888,Sexton's,"616 Halsey St, Brooklyn",Stuyvesant Heights,Wine & liquor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0891,Jack's,"1309 Prospect Ave, Brooklyn",Windsor Terrace,Wine & liquor,C,"1948,1949,1950,1951,1952,1953"
+G1078,Dew Drop,"363 Halsey St, Brooklyn",Stuyvesant Heights,Restaurant,D,1938
+G1079,Lucille's,"923 Fulton St, Brooklyn",Clinton Hill,Restaurant,D,1938
+G1080,M. & M.,"1455 Fulton St, Brooklyn",Bedford,Restaurant,D,1938
+G1081,Richarson,"1686 Fulton St, Brooklyn",Crown Heights North,Restaurant,D,1938
+G1082,Rosebud,"1081 Fulton St, Brooklyn",Clinton Hill,Restaurant,D,1938
+G1084,Royal,"1073 Fulton St, Brooklyn",Clinton Hill,Tavern,D,1938
+G1085,Utopia,"1093 Fulton St, Brooklyn",Clinton Hill,Tavern,D,1938
+G1087,Lion's,"307 Ralph Ave, Brooklyn",Ocean Hill,Night Club,D,1938
+G1089,Bedford,"1153 Atlantic Ave, Brooklyn",Crown Heights North,Dance Hall,D,1938
+G1097,Bartley's,"514 Classon Ave, Brooklyn",Clinton Hill,Beauty Parlor,D,1938
+G1098,Cloverleaf,"425 Gates Ave, Brooklyn",Bedford,Beauty Parlor,D,1938
+G1099,C. Bogan,"1720 Fulton St, Brooklyn",Crown Heights North,Beauty Parlor,D,1938
+G1100,Diddy's,"1518 Fulton St, Brooklyn",Crown Heights North,Beauty Parlor,D,1938
+G1101,Emma's,"1391 Fulton St, Brooklyn",Bedford,Beauty Parlor,D,1938
+G1102,La Mae,"525 Classon Ave, Brooklyn",Clinton Hill,Beauty Parlor,D,1938
+G1103,Victoris,"486 Halsey St, Brooklyn",Stuyvesant Heights,Beauty Parlor,D,1938
+G1104,Almanello,"1345 Fulton St, Brooklyn",Bedford,School of Beauty Culture,D,1938
+G1105,J. K.,"417 Tompkins Ave, Brooklyn",Bedford,School of Beauty Culture,D,1938
+G1106,Ritz,"1358 Fulton St, Brooklyn",Crown Heights North,School of Beauty Culture,D,1938
+G1107,Theresa,"304 Livonia Ave, Brooklyn",Brownsville,School of Beauty Culture,D,1938
+G0024,McKinley,"1258 Boston Road, Bronx",Morrisania-Melrose,Ballroom,D,"1948,1950,1951,1952"
+G0025,McKinley,"1258 Boston Rd, Bronx",Morrisania-Melrose,Ballroom,D,"1949,1953,1954,1955"
+G0075,Modern,"1174 Boston Rd, Bronx",Morrisania-Melrose,Barber Shop,D,"1952,1953,1955"
+G0098,Grayson's,"974 Prospect Ave, Bronx",Longwood,Beauty Parlor,D,"1948,1949,1950,1951,1952,1953"
+G0099,Glennada,"875 Longwood Ave, Bronx",Longwood,Beauty Parlor,D,"1948,1949,1950,1951,1952,1953,1955"
+G0106,Vashti's,"349 Morris Ave, Bronx",Mott Haven-Port Morris,Beauty Parlor,Outside Zone,1953
+G0116,Grayson,"875 Prospect Ave, Bronx",Morrisania-Melrose,Beauty Parlor,D,1955
+G0151,Blue Morocco,"1185 Boston Rd, Bronx",Morrisania-Melrose,Hotel,D,"1963 - 1964,1966 - 1967"
+G0217,The Viola Hotel,"227 135th St, Bronx",Mott Haven-Port Morris,Hotel,Outside Zone,"1939,1940,1947,1948,1949,1950,1951,1952,1953"
+G0323,Concourse Plaza Hotel,"900 Grand Concourse, Bronx",East Concourse-Concourse Village,Hotel,B,"1963 - 1964,1966 - 1967"
+G0324,Deegan Motel,"3600 Bailey Ave, Bronx",Van Cortlandt Village,Hotel,C,"1963 - 1964,1966 - 1967"
+G0325,Riverdale Motor Inn,"6355 Broadway, Bronx",North Riverdale-Fieldston-Riverdale,Hotel,B,"1963 - 1964,1966 - 1967"
+G0327,Town & Country Motor Lodge,"2244 Tillotson Ave, Bronx",Co-op City,Hotel,C,"1963 - 1964,1966 - 1967"
+G0328,Van Cortlandt Motel,"6393 Broadway, Bronx",North Riverdale-Fieldston-Riverdale,Hotel,B,"1963 - 1964,1966 - 1967"
+G0345,Guest House,"744 Kelly St, Bronx",Longwood,Hotel,D,"1955,1956,1957"
+G0450,845,"845 Prospect Ave, Bronx",Melrose South-Mott Haven North,Night Club,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0497,Lobster Box,"34 City Island Ave, Bronx",Pelham Bay-Country Club-City Island,Restaurant,C,"1962,1963 - 1964,1966 - 1967"
+G0519,Stella D'Oro,"5806 Broadway, Bronx",Spuyten Duyvil-Kingsbridge,Restaurant,Outside Zone,"1962,1963 - 1964,1966 - 1967"
+G0529,Hubb,"1070 Union Ave, Bronx",Longwood,Restaurant,D,1941
+G0597,Theobald's,"1585 Fulton Ave, Bronx",Claremont-Bathgate,Restaurant,D,1948
+G0599,The Blue Way,"734 East 165th St, Bronx",Morrisania-Melrose,Restaurant,D,"1948,1949"
+G0601,Syl-V,"584 East 168th St, Bronx",Morrisania-Melrose,Restaurant,D,"1948,1949,1950,1951,1952,1953"
+G0606,Shrimp's,"734 East 165th St, Bronx",Morrisania-Melrose,Restaurant,D,"1949,1950,1951,1952,1953"
+G0636,Hendrix's,"1202 Union Ave, Bronx",Morrisania-Melrose,Tailor,D,"1948,1949,1950"
+G0770,Capitol Bar,"1150 Fulton Ave, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1954,1955"
+G0771,Freddie's Cafe,"1204 Boston Road, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1953"
+G0772,Uncle Curley's,"3589 Third Ave, Bronx",Claremont-Bathgate,Tavern,D,"1948,1949,1950,1951,1952"
+G0773,The Fair Play,"1260 Boston Road, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952"
+G0774,Boston Road Cafe,"1078 Boston Road, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0775,Sun Brite,"921 Prospect Ave, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0776,Harty's Mid-Way,"458 E 165th St, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0777,Louis' Ambosino,"737 E 165th Street, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952"
+G0778,Neighborhood,"3344 Third Ave, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0779,Third Ave Rendezvous,"3377 Third Ave, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0780,Prospect Bar & Grill,"1431 Prospect Ave, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0781,Louis' Tavern,"3510 Third Ave, Bronx",Claremont-Bathgate,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0782,Kennie's,"853 Freeman St, Bronx",Crotona Park East,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0783,Lucille's,"3800 Third Ave, Bronx",Claremont-Bathgate,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0784,Jimmy's,"267 E 161st St, Bronx",East Concourse-Concourse Village,Tavern,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0785,Zombie Bar,"1745 Boston Road, Bronx",Crotona Park East,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0786,Rainbow Gardens,"977 Prospect Ave, Bronx",Longwood,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0787,The Forest Lounge,"750 E 165th St, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0788,Boston Road Tavern,"1429 Prospect Ave, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0789,Johnny's,"1048 Boston Road, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952"
+G0790,B & P,"823 E 169th St, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1953,1954"
+G0792,Ralph Rida's,"1155 Tinton Ave, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0793,Triangle,"849 E 169th St, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1953"
+G0794,Old Harlem Union Cafe,"1531 E 172nd St, Bronx",West Farms-Bronx River,Tavern,C,1948
+G0795,Rendez-Vous,"907 Prospect Ave, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0796,Bronxwood,"3950 Bronxwood Ave, Bronx",Williamsbridge-Olinville,Tavern,D,"1948,1949,1950,1951,1952,1953"
+G0797,Crystal Lounge,"1035 Prospect Ave, Bronx",Longwood,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0798,Happy Hour,"1183 Boston Road, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952"
+G0799,Four Aces,"1306 Boston Road, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0800,Central,"271 East 161st St, Bronx",East Concourse-Concourse Village,Tavern,C,"1948,1955"
+G0801,Kelly's,"430 East 169th St, Bronx",Claremont-Bathgate,Tavern,D,1948
+G0802,Sleep Inn,"1308 Washington Ave, Bronx",Claremont-Bathgate,Tavern,D,1948
+G0804,Sporting Life,"950 Prospect Ave, Bronx",Longwood,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0805,Central,"267 East 161st St, Bronx",East Concourse-Concourse Village,Tavern,C,"1948,1949,1950,1951,1952,1953,1954"
+G0806,DeLuxe,"270 East 161st St, Bronx",East Concourse-Concourse Village,Tavern,C,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0807,Elk's,"980 Prospect Ave, Bronx",Longwood,Tavern,D,"1948,1949,1950"
+G0808,Midway,"458 East 165th St, Bronx",Morrisania-Melrose,Tavern,D,1948
+G0809,Hi-Spot,"3824 3rd Ave, Bronx",Claremont-Bathgate,Tavern,D,1948
+G0810,Alamo,"1056 Boston Road, Bronx",Morrisania-Melrose,Tavern,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0822,Kingston Tavern,"1496 Fulton Ave, Bronx",Morrisania-Melrose,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0823,Arlington Inn,"1253 Fulton Ave, Bronx",Claremont-Bathgate,Tavern,D,"1949,1950,1951,1952,1953,1954,1955"
+G0854,New Durkin,"1285 Fulton Ave, Bronx",Claremont-Bathgate,Tavern,D,"1949,1950,1951,1952,1953,1954"
+G0882,Freddie's Bar,"1204 Boston Rd, Bronx",Morrisania-Melrose,Tavern,D,"1954,1955"
+G0889,Franklin Ave,"1214 Franklin Ave, Bronx",Morrisania-Melrose,Wine & liquor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0890,Prospect,"889 Prospect Ave, Bronx",Morrisania-Melrose,Wine & liquor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0892,West Farms,"2026 Boston Road, Bronx",East Tremont,Wine & liquor,D,"1948,1949,1950,1951,1952,1953,1954,1955"
+G0893,O'Connell's,"1311 Boston Road, Bronx",Morrisania-Melrose,Wine & liquor,D,"1948,1949,1950,1951,1952,1953,1954"
+G0894,DeLux,"857 Freeman St, Bronx",Crotona Park East,Wine & liquor,D,"1948,1949,1950,1951,1952,1953"
+G0569,Boulevard Restaurant,"110-33 Sutphin Blvd, Queens",South Jamaica,Restaurant,D,"1961,1962"
+G0570,Bowman's Show Place,"111-59 Farmers Blvd, Queens",St. Albans,Restaurant,C,"1961,1962"
+G0571,Club Zanzibar,"137-08 New York Blvd, Queens",Springfield Gardens North,Restaurant,D,"1961,1962"
+G0654,Baby Grand,"319 125th Street, Queens",College Point,Tavern,C,"1947,1948,1949,1950,1951,1952,1953,1954,1955"
+G0104,Etta's,"1652 Richmond Terr, Staten Island",West New Brighton-New Brighton-St. George,Beauty Parlor,D,"1951,1952,1953,1954"
+G0152,Huguenot Hotel,"242 Huguenot St, Staten Island",Rossville-Woodrow,Hotel,Outside Zone,"1963 - 1964,1966 - 1967"
+G0575,Harris Restaurant,"29 Morris Street, Staten Island",Rossville-Woodrow,Restaurant,Outside Zone,"1963 - 1964,1966 - 1967"
