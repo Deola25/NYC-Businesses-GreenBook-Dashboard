@@ -1,0 +1,1 @@
+This project takes New York City businesses from a collection of green books from 1937 to 1961 and creates a dashboard that filters based on the business category, HOLC grade and current neighbourhood.
